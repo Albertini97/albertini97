@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albertini97" alt="albertini97" /></a> </p>
 
-- 🌱 Actualmente estoy aprendiendo **HTML5, CS3, JAVASCRIPT y Python**
+- 🌱 Actualmente estoy aprendiendo **Angular y React**
 
 - 📫 Como contactarme **https://www.linkedin.com/in/alberto-labarta-holgado-877969ab/**
 
