@@ -7,6 +7,10 @@
 
 - 🌱 Actualmente estoy aprendiendo **Angular y React**
 
+- ## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@albertini97/30-nites-of-code)  
+  ![@albertini97 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=albertini97)
+
 - 📫 Como contactarme **https://www.linkedin.com/in/alberto-labarta-holgado-877969ab/**
 
 <h3 align="left">Connect with me:</h3>
