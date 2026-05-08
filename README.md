@@ -2,7 +2,9 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E5A0&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Especialista+en+SEO+%26+Web+Performance;Apasionado+por+resolver+problemas+con+c%C3%B3digo)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E5A0&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack+%F0%9F%9A%80;Especialista+en+SEO+%26+Web+Performance+%F0%9F%94%8D;Apasionado+por+resolver+problemas+con+c%C3%B3digo+%F0%9F%92%A1;Desde+Zaragoza%2C+siempre+aprendiendo+%F0%9F%87%AA%F0%9F%87%B8)
+
+![Profile Views](https://komarev.com/ghpvc/?username=albertini97&color=00e5a0&style=flat&label=visitas+al+perfil)
 
 </div>
 
@@ -10,15 +12,19 @@
 
 ## 🧑‍💻 Sobre mí
 
+Soy un desarrollador apasionado por construir cosas que funcionen bien y se vean mejor. Me especializo en frontend y desarrollo full stack, con un enfoque especial en **SEO técnico y rendimiento web** — porque una web bonita que nadie encuentra o que tarda 5 segundos en cargar no sirve de nada.
+
+Aprendo haciendo: cada repo en este perfil es un problema que quise resolver o una tecnología que quise dominar. Actualmente expandiendo mi stack con **React y Angular**.
+
 ```javascript
 const alberto = {
-  ubicación:     "Zaragoza, España 🇪🇸",
-  rol:           "Full Stack Developer",
+  ubicación:      "Zaragoza, España 🇪🇸",
+  rol:            "Full Stack Developer",
   especialidades: ["SEO técnico", "Web Performance", "Arquitectura de datos"],
-  aprendiendo:   ["React", "Angular"],
-  pasión:        "resolver problemas con código",
-  disponible:    true,
-  contacto:      "soyalbertolabartaholgado@gmail.com"
+  aprendiendo:    ["React", "Angular"],
+  pasión:         "resolver problemas con código",
+  disponible:     true,
+  contacto:       "soyalbertolabartaholgado@gmail.com"
 }
 ```
 
@@ -51,11 +57,55 @@ const alberto = {
 
 ---
 
+## 📌 Proyectos destacados
+
+### 🎬 [YouTube to MP4 Converter](https://github.com/Albertini97/YouTube-to-MP4-Converter) ⭐
+> Herramienta CLI en Python para descargar y convertir vídeos de YouTube a MP4. Gestión de errores, dependencias y descarga automatizada.
+
+**Stack:** `Python`
+
+---
+
+### 📋 [Formulario de Registro](https://github.com/Albertini97/Formulario-de-Registro)
+> Formulario accesible y semántico con HTML limpio, validación nativa y estilos personalizados. Enfoque en usabilidad y buenas prácticas.
+
+**Stack:** `HTML5` `CSS3`
+
+---
+
+### 🖼️ [Galería de Fotos](https://github.com/Albertini97/Galeria-de-Fotos)
+> Galería responsive usando CSS Grid. Se adapta a cualquier tamaño de pantalla sin una sola línea de JavaScript.
+
+**Stack:** `HTML5` `CSS Grid`
+
+---
+
+### 🎨 [Modelo de cajas · Rothko](https://github.com/Albertini97/Modelo-de-cajas-pintura-Rothko)
+> Recreación de una pintura de Mark Rothko usando exclusivamente CSS. Ejercicio avanzado de box model, capas de color y efectos visuales puros.
+
+**Stack:** `CSS puro`
+
+---
+
+### 🏷️ [Nutrition Label](https://github.com/Albertini97/Nutrition-Label)
+> Etiqueta nutricional pixel-perfect en HTML y CSS. Demuestra dominio de tipografía, bordes, espaciado y estructura semántica accesible.
+
+**Stack:** `HTML5` `CSS3`
+
+---
+
+### 📱 [QR Component](https://github.com/Albertini97/QR)
+> Componente de tarjeta QR pixel-perfect. Práctica de layout centrado, tipografía y espaciado preciso.
+
+**Stack:** `HTML5` `CSS3`
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albertini97&show_icons=true&theme=github_dark&hide_border=true&locale=es)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albertini97&show_icons=true&theme=github_dark&hide_border=true&locale=es&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertini97&layout=compact&theme=github_dark&hide_border=true&locale=es)
 
 </div>
@@ -66,16 +116,11 @@ const alberto = {
 
 </div>
 
----
+<div align="center">
 
-## 📌 Proyectos destacados
+[![trophy](https://github-profile-trophy.vercel.app/?username=albertini97&theme=darkhub&no-frame=true&column=6&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🎬 **[YouTube to MP4 Converter](https://github.com/Albertini97/YouTube-to-MP4-Converter)** — Herramienta Python para descargar y convertir vídeos de YouTube ⭐
-- 📋 **[Formulario de Registro](https://github.com/Albertini97/Formulario-de-Registro)** — Formulario accesible y semántico con HTML & CSS
-- 🖼️ **[Galería de Fotos](https://github.com/Albertini97/Galeria-de-Fotos)** — Layout responsive con CSS Grid y Flexbox
-- 🎨 **[Rothko CSS](https://github.com/Albertini97/Modelo-de-cajas-pintura-Rothko)** — Pintura de Rothko recreada con CSS puro
-- 🏷️ **[Nutrition Label](https://github.com/Albertini97/Nutrition-Label)** — Etiqueta nutricional pixel-perfect en HTML & CSS
-- 📱 **[QR Component](https://github.com/Albertini97/QR)** — Componente de tarjeta QR
+</div>
 
 ---
 
